@@ -1,0 +1,781 @@
+rank,rank_last_week,title,author,weeks_on_list,list_publication_date
+1,,The Exchange,John Grisham,1,2023-11-05
+2,1.0,Fourth Wing,Rebecca Yarros,25,2023-11-05
+3,4.0,Lessons In Chemistry,Bonnie Garmus,50,2023-11-05
+4,,Two Twisted Crowns,Rachel Gillig,1,2023-11-05
+5,3.0,Wildfire,Hannah Grace,3,2023-11-05
+6,,A Little Life,Hanya Yanagihara,2,2023-11-05
+7,8.0,Tom Lake,Ann Patchett,12,2023-11-05
+8,5.0,Judgment Prey,John Sandford,3,2023-11-05
+9,7.0,Icebreaker,Hannah Grace,18,2023-11-05
+10,10.0,The Housemaid,Freida McFadden,19,2023-11-05
+11,6.0,Holly,Stephen King,7,2023-11-05
+12,11.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,109,2023-11-05
+13,12.0,The Armor Of Light,Ken Follett,4,2023-11-05
+14,,It Ends With Us,Colleen Hoover,117,2023-11-05
+15,14.0,Things We Left Behind,Lucy Score,6,2023-11-05
+1,,The Secret,Lee Child and Andrew Child,1,2023-11-12
+2,1.0,The Exchange,John Grisham,2,2023-11-12
+3,,King Of Greed,Ana Huang,1,2023-11-12
+4,2.0,Fourth Wing,Rebecca Yarros,26,2023-11-12
+5,3.0,Lessons In Chemistry,Bonnie Garmus,51,2023-11-12
+6,,Let Us Descend,Jesmyn Ward,1,2023-11-12
+7,7.0,Tom Lake,Ann Patchett,13,2023-11-12
+8,12.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,110,2023-11-12
+9,,All The Light We Cannot See,Anthony Doerr,83,2023-11-12
+10,5.0,Wildfire,Hannah Grace,4,2023-11-12
+11,9.0,Icebreaker,Hannah Grace,19,2023-11-12
+12,10.0,The Housemaid,Freida McFadden,20,2023-11-12
+13,11.0,Holly,Stephen King,8,2023-11-12
+14,6.0,A Little Life,Hanya Yanagihara,3,2023-11-12
+15,8.0,Judgment Prey,John Sandford,4,2023-11-12
+1,,Dirty Thirty,Janet Evanovich,1,2023-11-19
+2,2.0,The Exchange,John Grisham,3,2023-11-19
+3,4.0,Fourth Wing,Rebecca Yarros,27,2023-11-19
+4,,A Fire In The Flesh,Jennifer L. Armentrout,1,2023-11-19
+5,1.0,The Secret,Lee Child and Andrew Child,2,2023-11-19
+6,,The Graham Effect,Elle Kennedy,1,2023-11-19
+7,5.0,Lessons In Chemistry,Bonnie Garmus,52,2023-11-19
+8,9.0,All The Light We Cannot See,Anthony Doerr,84,2023-11-19
+9,10.0,Wildfire,Hannah Grace,5,2023-11-19
+10,8.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,111,2023-11-19
+11,11.0,Icebreaker,Hannah Grace,20,2023-11-19
+12,12.0,The Housemaid,Freida McFadden,21,2023-11-19
+13,7.0,Tom Lake,Ann Patchett,14,2023-11-19
+14,13.0,Holly,Stephen King,9,2023-11-19
+15,3.0,King Of Greed,Ana Huang,2,2023-11-19
+1,,Iron Flame,Rebecca Yarros,1,2023-11-26
+2,3.0,Fourth Wing,Rebecca Yarros,28,2023-11-26
+3,,Resurrection Walk,Michael Connelly,1,2023-11-26
+4,2.0,The Exchange,John Grisham,4,2023-11-26
+5,,Bookshops & Bonedust,Travis Baldree,1,2023-11-26
+6,5.0,The Secret,Lee Child and Andrew Child,3,2023-11-26
+7,1.0,Dirty Thirty,Janet Evanovich,2,2023-11-26
+8,7.0,Lessons In Chemistry,Bonnie Garmus,53,2023-11-26
+9,8.0,All The Light We Cannot See,Anthony Doerr,85,2023-11-26
+10,,Clive Cussler: The Corsican Shadow,Dirk Cussler,1,2023-11-26
+11,,Love Redesigned,Lauren Asher,1,2023-11-26
+12,11.0,Icebreaker,Hannah Grace,21,2023-11-26
+13,,Slay,Laurell K. Hamilton,1,2023-11-26
+14,,The Olympian Affair,Jim Butcher,1,2023-11-26
+15,12.0,The Housemaid,Freida McFadden,22,2023-11-26
+1,1.0,Iron Flame,Rebecca Yarros,2,2023-12-03
+2,2.0,Fourth Wing,Rebecca Yarros,29,2023-12-03
+3,,The Edge,David Baldacci,1,2023-12-03
+4,,System Collapse,Martha Wells,1,2023-12-03
+5,,The Little Liar,Mitch Albom,1,2023-12-03
+6,4.0,The Exchange,John Grisham,5,2023-12-03
+7,,The Narrow Road Between Desires,Patrick Rothfuss,1,2023-12-03
+8,,The Heaven & Earth Grocery Store,James McBride,3,2023-12-03
+9,3.0,Resurrection Walk,Michael Connelly,2,2023-12-03
+10,9.0,All The Light We Cannot See,Anthony Doerr,86,2023-12-03
+11,8.0,Lessons In Chemistry,Bonnie Garmus,54,2023-12-03
+12,6.0,The Secret,Lee Child and Andrew Child,4,2023-12-03
+13,7.0,Dirty Thirty,Janet Evanovich,3,2023-12-03
+14,12.0,Icebreaker,Hannah Grace,22,2023-12-03
+15,15.0,The Housemaid,Freida McFadden,23,2023-12-03
+1,1.0,Iron Flame,Rebecca Yarros,3,2023-12-10
+2,2.0,Fourth Wing,Rebecca Yarros,30,2023-12-10
+3,,Inheritance,Nora Roberts,1,2023-12-10
+4,,Alex Cross Must Die,James Patterson,1,2023-12-10
+5,6.0,The Exchange,John Grisham,6,2023-12-10
+6,11.0,Lessons In Chemistry,Bonnie Garmus,55,2023-12-10
+7,8.0,The Heaven & Earth Grocery Store,James McBride,4,2023-12-10
+8,14.0,Icebreaker,Hannah Grace,23,2023-12-10
+9,3.0,The Edge,David Baldacci,2,2023-12-10
+10,,The Ball At Versailles,Danielle Steel,1,2023-12-10
+11,5.0,The Little Liar,Mitch Albom,2,2023-12-10
+12,9.0,Resurrection Walk,Michael Connelly,3,2023-12-10
+13,,Holly,Stephen King,10,2023-12-10
+14,10.0,All The Light We Cannot See,Anthony Doerr,87,2023-12-10
+15,,Twisted Love,Ana Huang,4,2023-12-10
+1,2.0,Fourth Wing,Rebecca Yarros,31,2023-12-17
+2,1.0,Iron Flame,Rebecca Yarros,4,2023-12-17
+3,,Unnatural Death,Patricia Cornwell,1,2023-12-17
+4,5.0,The Exchange,John Grisham,7,2023-12-17
+5,7.0,The Heaven & Earth Grocery Store,James McBride,5,2023-12-17
+6,6.0,Lessons In Chemistry,Bonnie Garmus,56,2023-12-17
+7,8.0,Icebreaker,Hannah Grace,24,2023-12-17
+8,4.0,Alex Cross Must Die,James Patterson,2,2023-12-17
+9,9.0,The Edge,David Baldacci,3,2023-12-17
+10,11.0,The Little Liar,Mitch Albom,3,2023-12-17
+11,3.0,Inheritance,Nora Roberts,2,2023-12-17
+12,12.0,Resurrection Walk,Michael Connelly,4,2023-12-17
+13,14.0,All The Light We Cannot See,Anthony Doerr,88,2023-12-17
+14,13.0,Holly,Stephen King,11,2023-12-17
+15,,The Housemaid,Freida McFadden,24,2023-12-17
+1,1.0,Fourth Wing,Rebecca Yarros,32,2023-12-24
+2,2.0,Iron Flame,Rebecca Yarros,5,2023-12-24
+3,5.0,The Heaven & Earth Grocery Store,James McBride,6,2023-12-24
+4,4.0,The Exchange,John Grisham,8,2023-12-24
+5,7.0,Icebreaker,Hannah Grace,25,2023-12-24
+6,6.0,Lessons In Chemistry,Bonnie Garmus,57,2023-12-24
+7,9.0,The Edge,David Baldacci,4,2023-12-24
+8,10.0,The Little Liar,Mitch Albom,4,2023-12-24
+9,8.0,Alex Cross Must Die,James Patterson,3,2023-12-24
+10,14.0,Holly,Stephen King,12,2023-12-24
+11,12.0,Resurrection Walk,Michael Connelly,5,2023-12-24
+12,13.0,All The Light We Cannot See,Anthony Doerr,89,2023-12-24
+13,15.0,The Housemaid,Freida McFadden,25,2023-12-24
+14,,Tom Lake,Ann Patchett,15,2023-12-24
+15,,The Covenant Of Water,Abraham Verghese,23,2023-12-24
+1,1.0,Fourth Wing,Rebecca Yarros,33,2023-12-31
+2,2.0,Iron Flame,Rebecca Yarros,6,2023-12-31
+3,3.0,The Heaven & Earth Grocery Store,James McBride,7,2023-12-31
+4,4.0,The Exchange,John Grisham,9,2023-12-31
+5,5.0,Icebreaker,Hannah Grace,26,2023-12-31
+6,6.0,Lessons In Chemistry,Bonnie Garmus,58,2023-12-31
+7,8.0,The Little Liar,Mitch Albom,5,2023-12-31
+8,10.0,Holly,Stephen King,13,2023-12-31
+9,7.0,The Edge,David Baldacci,5,2023-12-31
+10,12.0,All The Light We Cannot See,Anthony Doerr,90,2023-12-31
+11,13.0,The Housemaid,Freida McFadden,26,2023-12-31
+12,14.0,Tom Lake,Ann Patchett,16,2023-12-31
+13,9.0,Alex Cross Must Die,James Patterson,4,2023-12-31
+14,,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,112,2023-12-31
+15,15.0,The Covenant Of Water,Abraham Verghese,24,2023-12-31
+1,1.0,Fourth Wing,Rebecca Yarros,34,2024-01-07
+2,2.0,Iron Flame,Rebecca Yarros,7,2024-01-07
+3,3.0,The Heaven & Earth Grocery Store,James McBride,8,2024-01-07
+4,4.0,The Exchange,John Grisham,10,2024-01-07
+5,5.0,Icebreaker,Hannah Grace,27,2024-01-07
+6,6.0,Lessons In Chemistry,Bonnie Garmus,59,2024-01-07
+7,8.0,Holly,Stephen King,14,2024-01-07
+8,7.0,The Little Liar,Mitch Albom,6,2024-01-07
+9,9.0,The Edge,David Baldacci,6,2024-01-07
+10,14.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,113,2024-01-07
+11,10.0,All The Light We Cannot See,Anthony Doerr,91,2024-01-07
+12,13.0,Alex Cross Must Die,James Patterson,5,2024-01-07
+13,11.0,The Housemaid,Freida McFadden,27,2024-01-07
+14,,Twisted Love,Ana Huang,5,2024-01-07
+15,,It Ends With Us,Colleen Hoover,118,2024-01-07
+1,1.0,Fourth Wing,Rebecca Yarros,35,2024-01-14
+2,2.0,Iron Flame,Rebecca Yarros,8,2024-01-14
+3,3.0,The Heaven & Earth Grocery Store,James McBride,9,2024-01-14
+4,5.0,Icebreaker,Hannah Grace,28,2024-01-14
+5,6.0,Lessons In Chemistry,Bonnie Garmus,60,2024-01-14
+6,13.0,The Housemaid,Freida McFadden,28,2024-01-14
+7,4.0,The Exchange,John Grisham,11,2024-01-14
+8,10.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,114,2024-01-14
+9,14.0,Twisted Love,Ana Huang,6,2024-01-14
+10,,House Of Earth And Blood,Sarah J. Maas,5,2024-01-14
+11,,Hello Beautiful,Ann Napolitano,10,2024-01-14
+12,,Wildfire,Hannah Grace,6,2024-01-14
+13,,Too Late,Colleen Hoover,14,2024-01-14
+14,,A Court Of Silver Flames,Sarah J. Maas,5,2024-01-14
+15,,House Of Sky And Breath,Sarah J. Maas,5,2024-01-14
+1,1.0,Fourth Wing,Rebecca Yarros,36,2024-01-21
+2,2.0,Iron Flame,Rebecca Yarros,9,2024-01-21
+3,3.0,The Heaven & Earth Grocery Store,James McBride,10,2024-01-21
+4,4.0,Icebreaker,Hannah Grace,29,2024-01-21
+5,,First Lie Wins,Ashley Elston,1,2024-01-21
+6,6.0,The Housemaid,Freida McFadden,29,2024-01-21
+7,,Upside Down,Danielle Steel,1,2024-01-21
+8,,The Nightingale,Kristin Hannah,64,2024-01-21
+9,10.0,House Of Earth And Blood,Sarah J. Maas,6,2024-01-21
+10,5.0,Lessons In Chemistry,Bonnie Garmus,61,2024-01-21
+11,,Remarkably Bright Creatures,Shel Van Pelt,1,2024-01-21
+12,9.0,Twisted Love,Ana Huang,7,2024-01-21
+13,14.0,A Court Of Silver Flames,Sarah J. Maas,6,2024-01-21
+14,8.0,The Seven Husbands Of Evelyn Hugo,Taylor Jenkins Reid,115,2024-01-21
+15,12.0,Wildfire,Hannah Grace,7,2024-01-21
+1,1.0,Fourth Wing,Rebecca Yarros,37,2024-01-28
+2,2.0,Iron Flame,Rebecca Yarros,10,2024-01-28
+3,3.0,The Heaven & Earth Grocery Store,James McBride,11,2024-01-28
+4,,"Holmes, Marple & Poe",James Patterson and Brian Sitts,1,2024-01-28
+5,5.0,First Lie Wins,Ashley Elston,2,2024-01-28
+6,4.0,Icebreaker,Hannah Grace,30,2024-01-28
+7,6.0,The Housemaid,Freida McFadden,30,2024-01-28
+8,,Sanctuary Of The Shadow,Aurora Ascher,1,2024-01-28
+9,9.0,House Of Earth And Blood,Sarah J. Maas,7,2024-01-28
+10,10.0,Lessons In Chemistry,Bonnie Garmus,62,2024-01-28
+11,13.0,A Court Of Silver Flames,Sarah J. Maas,7,2024-01-28
+12,,House Of Sky And Breath,Sarah J. Maas,6,2024-01-28
+13,12.0,Twisted Love,Ana Huang,8,2024-01-28
+14,11.0,Remarkably Bright Creatures,Shel Van Pelt,2,2024-01-28
+15,,It Ends With Us,Colleen Hoover,119,2024-01-28
+1,1.0,Fourth Wing,Rebecca Yarros,38,2024-02-04
+2,2.0,Iron Flame,Rebecca Yarros,11,2024-02-04
+3,,The Fury,Alex Michaelides,1,2024-02-04
+4,5.0,First Lie Wins,Ashley Elston,3,2024-02-04
+5,3.0,The Heaven & Earth Grocery Store,James McBride,12,2024-02-04
+6,6.0,Icebreaker,Hannah Grace,31,2024-02-04
+7,7.0,The Housemaid,Freida McFadden,31,2024-02-04
+8,9.0,House Of Earth And Blood,Sarah J. Maas,8,2024-02-04
+9,11.0,A Court Of Silver Flames,Sarah J. Maas,8,2024-02-04
+10,12.0,House Of Sky And Breath,Sarah J. Maas,7,2024-02-04
+11,15.0,It Ends With Us,Colleen Hoover,120,2024-02-04
+12,4.0,"Holmes, Marple & Poe",James Patterson and Brian Sitts,2,2024-02-04
+13,,A Little Life,Hanya Yanagihara,4,2024-02-04
+14,10.0,Lessons In Chemistry,Bonnie Garmus,63,2024-02-04
+15,,Midnight Ruin,Katee Robert,1,2024-02-04
+1,,Random In Death,J.D. Robb,1,2024-02-11
+2,1.0,Fourth Wing,Rebecca Yarros,39,2024-02-11
+3,2.0,Iron Flame,Rebecca Yarros,12,2024-02-11
+4,5.0,The Heaven & Earth Grocery Store,James McBride,13,2024-02-11
+5,4.0,First Lie Wins,Ashley Elston,4,2024-02-11
+6,8.0,House Of Earth And Blood,Sarah J. Maas,9,2024-02-11
+7,,Gothikana,RuNyx,1,2024-02-11
+8,10.0,House Of Sky And Breath,Sarah J. Maas,8,2024-02-11
+9,7.0,The Housemaid,Freida McFadden,32,2024-02-11
+10,6.0,Icebreaker,Hannah Grace,32,2024-02-11
+11,9.0,A Court Of Silver Flames,Sarah J. Maas,9,2024-02-11
+12,3.0,The Fury,Alex Michaelides,2,2024-02-11
+13,11.0,It Ends With Us,Colleen Hoover,121,2024-02-11
+14,14.0,Lessons In Chemistry,Bonnie Garmus,64,2024-02-11
+15,,The Silent Patient,Alex Michaelides,61,2024-02-11
+1,,House Of Flame And Shadow,Sarah J. Maas,1,2024-02-18
+2,2.0,Fourth Wing,Rebecca Yarros,40,2024-02-18
+3,3.0,Iron Flame,Rebecca Yarros,13,2024-02-18
+4,6.0,House Of Earth And Blood,Sarah J. Maas,10,2024-02-18
+5,4.0,The Heaven & Earth Grocery Store,James McBride,14,2024-02-18
+6,8.0,House Of Sky And Breath,Sarah J. Maas,9,2024-02-18
+7,5.0,First Lie Wins,Ashley Elston,5,2024-02-18
+8,11.0,A Court Of Silver Flames,Sarah J. Maas,10,2024-02-18
+9,10.0,Icebreaker,Hannah Grace,33,2024-02-18
+10,9.0,The Housemaid,Freida McFadden,33,2024-02-18
+11,1.0,Random In Death,J.D. Robb,2,2024-02-18
+12,13.0,It Ends With Us,Colleen Hoover,122,2024-02-18
+13,12.0,The Fury,Alex Michaelides,3,2024-02-18
+14,7.0,Gothikana,RuNyx,2,2024-02-18
+15,15.0,The Silent Patient,Alex Michaelides,62,2024-02-18
+1,,The Women,Kristin Hannah,1,2024-02-25
+2,,The Teacher,Freida McFadden,1,2024-02-25
+3,1.0,House Of Flame And Shadow,Sarah J. Maas,2,2024-02-25
+4,,Bride,Ali Hazelwood,1,2024-02-25
+5,2.0,Fourth Wing,Rebecca Yarros,41,2024-02-25
+6,3.0,Iron Flame,Rebecca Yarros,14,2024-02-25
+7,4.0,House Of Earth And Blood,Sarah J. Maas,11,2024-02-25
+8,5.0,The Heaven & Earth Grocery Store,James McBride,15,2024-02-25
+9,,The Ghost Orchid,Jonathan Kellerman,1,2024-02-25
+10,10.0,The Housemaid,Freida McFadden,34,2024-02-25
+11,7.0,First Lie Wins,Ashley Elston,6,2024-02-25
+12,8.0,A Court Of Silver Flames,Sarah J. Maas,11,2024-02-25
+13,9.0,Icebreaker,Hannah Grace,34,2024-02-25
+14,6.0,House Of Sky And Breath,Sarah J. Maas,10,2024-02-25
+15,12.0,It Ends With Us,Colleen Hoover,123,2024-02-25
+1,1.0,The Women,Kristin Hannah,2,2024-03-03
+2,5.0,Fourth Wing,Rebecca Yarros,42,2024-03-03
+3,4.0,Bride,Ali Hazelwood,2,2024-03-03
+4,6.0,Iron Flame,Rebecca Yarros,15,2024-03-03
+5,3.0,House Of Flame And Shadow,Sarah J. Maas,3,2024-03-03
+6,,Crosshairs,James Patterson and James O. Born,1,2024-03-03
+7,2.0,The Teacher,Freida McFadden,2,2024-03-03
+8,8.0,The Heaven & Earth Grocery Store,James McBride,16,2024-03-03
+9,7.0,House Of Earth And Blood,Sarah J. Maas,12,2024-03-03
+10,12.0,A Court Of Silver Flames,Sarah J. Maas,12,2024-03-03
+11,13.0,Icebreaker,Hannah Grace,35,2024-03-03
+12,10.0,The Housemaid,Freida McFadden,35,2024-03-03
+13,11.0,First Lie Wins,Ashley Elston,7,2024-03-03
+14,,Fangirl Down,Tessa Bailey,1,2024-03-03
+15,14.0,House Of Sky And Breath,Sarah J. Maas,11,2024-03-03
+1,1.0,The Women,Kristin Hannah,3,2024-03-10
+2,2.0,Fourth Wing,Rebecca Yarros,43,2024-03-10
+3,4.0,Iron Flame,Rebecca Yarros,16,2024-03-10
+4,7.0,The Teacher,Freida McFadden,3,2024-03-10
+5,,The Chaos Agent,Mark Greaney,1,2024-03-10
+6,5.0,House Of Flame And Shadow,Sarah J. Maas,4,2024-03-10
+7,3.0,Bride,Ali Hazelwood,3,2024-03-10
+8,8.0,The Heaven & Earth Grocery Store,James McBride,17,2024-03-10
+9,11.0,Icebreaker,Hannah Grace,36,2024-03-10
+10,10.0,A Court Of Silver Flames,Sarah J. Maas,13,2024-03-10
+11,12.0,The Housemaid,Freida McFadden,36,2024-03-10
+12,,Leopard'S Hunt,Christine Feehan,1,2024-03-10
+13,,The Atlas Maneuver,Steve Berry,1,2024-03-10
+14,9.0,House Of Earth And Blood,Sarah J. Maas,13,2024-03-10
+15,13.0,First Lie Wins,Ashley Elston,8,2024-03-10
+1,1.0,The Women,Kristin Hannah,4,2024-03-17
+2,,Three-Inch Teeth,C.J. Box,1,2024-03-17
+3,,A Fate Inked In Blood,Danielle L. Jensen,1,2024-03-17
+4,2.0,Fourth Wing,Rebecca Yarros,44,2024-03-17
+5,3.0,Iron Flame,Rebecca Yarros,17,2024-03-17
+6,4.0,The Teacher,Freida McFadden,4,2024-03-17
+7,7.0,Bride,Ali Hazelwood,4,2024-03-17
+8,10.0,A Court Of Silver Flames,Sarah J. Maas,14,2024-03-17
+9,8.0,The Heaven & Earth Grocery Store,James McBride,18,2024-03-17
+10,6.0,House Of Flame And Shadow,Sarah J. Maas,5,2024-03-17
+11,11.0,The Housemaid,Freida McFadden,37,2024-03-17
+12,15.0,First Lie Wins,Ashley Elston,9,2024-03-17
+13,9.0,Icebreaker,Hannah Grace,37,2024-03-17
+14,14.0,House Of Earth And Blood,Sarah J. Maas,14,2024-03-17
+15,,Wandering Stars,Tommy Orange,1,2024-03-17
+1,1.0,The Women,Kristin Hannah,5,2024-03-24
+2,,The Hunter,Tana French,1,2024-03-24
+3,,Never Too Late,Danielle Steel,1,2024-03-24
+4,4.0,Fourth Wing,Rebecca Yarros,45,2024-03-24
+5,5.0,Iron Flame,Rebecca Yarros,18,2024-03-24
+6,,The Inmate,Freida McFadden,1,2024-03-24
+7,6.0,The Teacher,Freida McFadden,5,2024-03-24
+8,,Happy Place,Emily Henry,16,2024-03-24
+9,2.0,Three-Inch Teeth,C.J. Box,2,2024-03-24
+10,7.0,Bride,Ali Hazelwood,5,2024-03-24
+11,8.0,A Court Of Silver Flames,Sarah J. Maas,15,2024-03-24
+12,11.0,The Housemaid,Freida McFadden,38,2024-03-24
+13,12.0,First Lie Wins,Ashley Elston,10,2024-03-24
+14,9.0,The Heaven & Earth Grocery Store,James McBride,19,2024-03-24
+15,,This Could Be Us,Kennedy Ryan,1,2024-03-24
+1,1.0,The Women,Kristin Hannah,6,2024-03-31
+2,,A Touch Of Chaos,Scarlett St. Clair,1,2024-03-31
+3,4.0,Fourth Wing,Rebecca Yarros,46,2024-03-31
+4,5.0,Iron Flame,Rebecca Yarros,19,2024-03-31
+5,8.0,Happy Place,Emily Henry,17,2024-03-31
+6,11.0,A Court Of Silver Flames,Sarah J. Maas,16,2024-03-31
+7,6.0,The Inmate,Freida McFadden,2,2024-03-31
+8,,Still See You Everywhere,Lisa Gardner,1,2024-03-31
+9,7.0,The Teacher,Freida McFadden,6,2024-03-31
+10,12.0,The Housemaid,Freida McFadden,39,2024-03-31
+11,,Icebreaker,Hannah Grace,38,2024-03-31
+12,2.0,The Hunter,Tana French,2,2024-03-31
+13,10.0,Bride,Ali Hazelwood,6,2024-03-31
+14,14.0,The Heaven & Earth Grocery Store,James McBride,20,2024-03-31
+15,13.0,First Lie Wins,Ashley Elston,11,2024-03-31
+1,1.0,The Women,Kristin Hannah,7,2024-04-07
+2,,The #1 Lawyer,James Patterson and Nancy Allen,1,2024-04-07
+3,3.0,Fourth Wing,Rebecca Yarros,47,2024-04-07
+4,4.0,Iron Flame,Rebecca Yarros,20,2024-04-07
+5,,James,Percival Everett,1,2024-04-07
+6,9.0,The Teacher,Freida McFadden,7,2024-04-07
+7,6.0,A Court Of Silver Flames,Sarah J. Maas,17,2024-04-07
+8,10.0,The Housemaid,Freida McFadden,40,2024-04-07
+9,5.0,Happy Place,Emily Henry,18,2024-04-07
+10,11.0,Icebreaker,Hannah Grace,39,2024-04-07
+11,14.0,The Heaven & Earth Grocery Store,James McBride,21,2024-04-07
+12,15.0,First Lie Wins,Ashley Elston,12,2024-04-07
+13,7.0,The Inmate,Freida McFadden,3,2024-04-07
+14,13.0,Bride,Ali Hazelwood,7,2024-04-07
+15,12.0,The Hunter,Tana French,3,2024-04-07
+1,1.0,The Women,Kristin Hannah,8,2024-04-14
+2,3.0,Fourth Wing,Rebecca Yarros,48,2024-04-14
+3,4.0,Iron Flame,Rebecca Yarros,21,2024-04-14
+4,,The Truth About The Devlins,Lisa Scottoline,1,2024-04-14
+5,,The Three-Body Problem,Cixin Liu,1,2024-04-14
+6,2.0,The #1 Lawyer,James Patterson and Nancy Allen,2,2024-04-14
+7,6.0,The Teacher,Freida McFadden,8,2024-04-14
+8,5.0,James,Percival Everett,2,2024-04-14
+9,10.0,Icebreaker,Hannah Grace,40,2024-04-14
+10,,Butcher & Blackbird,Brynne Weaver,1,2024-04-14
+11,7.0,A Court Of Silver Flames,Sarah J. Maas,18,2024-04-14
+12,8.0,The Housemaid,Freida McFadden,41,2024-04-14
+13,9.0,Happy Place,Emily Henry,19,2024-04-14
+14,11.0,The Heaven & Earth Grocery Store,James McBride,22,2024-04-14
+15,,House Of Earth And Blood,Sarah J. Maas,15,2024-04-14
+1,,Just For The Summer,Ab Jimenez,1,2024-04-21
+2,1.0,The Women,Kristin Hannah,9,2024-04-21
+3,,Table For Two,Amor Towles,1,2024-04-21
+4,2.0,Fourth Wing,Rebecca Yarros,49,2024-04-21
+5,3.0,Iron Flame,Rebecca Yarros,22,2024-04-21
+6,7.0,The Teacher,Freida McFadden,9,2024-04-21
+7,12.0,The Housemaid,Freida McFadden,42,2024-04-21
+8,11.0,A Court Of Silver Flames,Sarah J. Maas,19,2024-04-21
+9,8.0,James,Percival Everett,3,2024-04-21
+10,,The Rule Book,Sarah Adams,1,2024-04-21
+11,5.0,The Three-Body Problem,Cixin Liu,2,2024-04-21
+12,,City In Ruins,Don Winslow,1,2024-04-21
+13,6.0,The #1 Lawyer,James Patterson and Nancy Allen,3,2024-04-21
+14,9.0,Icebreaker,Hannah Grace,41,2024-04-21
+15,13.0,Happy Place,Emily Henry,20,2024-04-21
+1,,Toxic Prey,John Sandford,1,2024-04-28
+2,2.0,The Women,Kristin Hannah,10,2024-04-28
+3,,The Familiar,Leigh Bardugo,1,2024-04-28
+4,,A Court Of Thorns And Roses,Sarah J. Maas,1,2024-04-28
+5,,A Court Of Mist And Fury,Sarah J. Maas,1,2024-04-28
+6,1.0,Just For The Summer,Ab Jimenez,2,2024-04-28
+7,4.0,Fourth Wing,Rebecca Yarros,50,2024-04-28
+8,,Wild Love,Elsie Silver,1,2024-04-28
+9,5.0,Iron Flame,Rebecca Yarros,23,2024-04-28
+10,,A Court Of Wings And Ruin,Sarah J. Maas,1,2024-04-28
+11,8.0,A Court Of Silver Flames,Sarah J. Maas,20,2024-04-28
+12,,A Court Of Frost And Starlight,Sarah J. Maas,1,2024-04-28
+13,7.0,The Housemaid,Freida McFadden,43,2024-04-28
+14,6.0,The Teacher,Freida McFadden,10,2024-04-28
+15,,The Beloved,J.R. Ward,1,2024-04-28
+1,,A Calamity Of Souls,David Baldacci,1,2024-05-05
+2,2.0,The Women,Kristin Hannah,11,2024-05-05
+3,4.0,A Court Of Thorns And Roses,Sarah J. Maas,2,2024-05-05
+4,,The Murder Inn,James Patterson and Candice Fox,1,2024-05-05
+5,5.0,A Court Of Mist And Fury,Sarah J. Maas,2,2024-05-05
+6,6.0,Just For The Summer,Ab Jimenez,3,2024-05-05
+7,7.0,Fourth Wing,Rebecca Yarros,51,2024-05-05
+8,9.0,Iron Flame,Rebecca Yarros,24,2024-05-05
+9,10.0,A Court Of Wings And Ruin,Sarah J. Maas,2,2024-05-05
+10,,Table For Two,Amor Towles,2,2024-05-05
+11,3.0,The Familiar,Leigh Bardugo,2,2024-05-05
+12,13.0,The Housemaid,Freida McFadden,44,2024-05-05
+13,1.0,Toxic Prey,John Sandford,2,2024-05-05
+14,11.0,A Court Of Silver Flames,Sarah J. Maas,21,2024-05-05
+15,12.0,A Court Of Frost And Starlight,Sarah J. Maas,2,2024-05-05
+1,,Funny Story,Emily Henry,1,2024-05-12
+2,2.0,The Women,Kristin Hannah,12,2024-05-12
+3,3.0,A Court Of Thorns And Roses,Sarah J. Maas,3,2024-05-12
+4,1.0,A Calamity Of Souls,David Baldacci,2,2024-05-12
+5,,The Covenant Of Water,Abraham Verghese,25,2024-05-12
+6,,Extinction,Douglas Preston,1,2024-05-12
+7,5.0,A Court Of Mist And Fury,Sarah J. Maas,3,2024-05-12
+8,7.0,Fourth Wing,Rebecca Yarros,52,2024-05-12
+9,6.0,Just For The Summer,Ab Jimenez,4,2024-05-12
+10,8.0,Iron Flame,Rebecca Yarros,25,2024-05-12
+11,,Lost Birds,Anne Hillerman,1,2024-05-12
+12,9.0,A Court Of Wings And Ruin,Sarah J. Maas,3,2024-05-12
+13,10.0,Table For Two,Amor Towles,3,2024-05-12
+14,,Archangel'S Lineage,Nalini Singh,1,2024-05-12
+15,12.0,The Housemaid,Freida McFadden,45,2024-05-12
+1,,King Of Sloth,Ana Huang,1,2024-05-19
+2,1.0,Funny Story,Emily Henry,2,2024-05-19
+3,2.0,The Women,Kristin Hannah,13,2024-05-19
+4,3.0,A Court Of Thorns And Roses,Sarah J. Maas,4,2024-05-19
+5,,Only The Brave,Danielle Steel,1,2024-05-19
+6,,Home Is Where The Bodies Are,Jeneva Rose,1,2024-05-19
+7,4.0,A Calamity Of Souls,David Baldacci,3,2024-05-19
+8,7.0,A Court Of Mist And Fury,Sarah J. Maas,4,2024-05-19
+9,8.0,Fourth Wing,Rebecca Yarros,53,2024-05-19
+10,9.0,Just For The Summer,Ab Jimenez,5,2024-05-19
+11,10.0,Iron Flame,Rebecca Yarros,26,2024-05-19
+12,12.0,A Court Of Wings And Ruin,Sarah J. Maas,4,2024-05-19
+13,,Murder Your Employer,Rupert Holmes,1,2024-05-19
+14,,Happy Place,Emily Henry,21,2024-05-19
+15,,A Court Of Frost And Starlight,Sarah J. Maas,3,2024-05-19
+1,,The 24Th Hour,James Patterson and Maxine Paetro,1,2024-05-26
+2,3.0,The Women,Kristin Hannah,14,2024-05-26
+3,2.0,Funny Story,Emily Henry,3,2024-05-26
+4,,This Summer Will Be Different,Carley Fortune,1,2024-05-26
+5,4.0,A Court Of Thorns And Roses,Sarah J. Maas,5,2024-05-26
+6,,Five Broken Blades,Mai Corland,1,2024-05-26
+7,,Long Island,Colm Tóibín,1,2024-05-26
+8,8.0,A Court Of Mist And Fury,Sarah J. Maas,5,2024-05-26
+9,,Summers At The Saint,Mary Kay Andrews,1,2024-05-26
+10,9.0,Fourth Wing,Rebecca Yarros,54,2024-05-26
+11,6.0,Home Is Where The Bodies Are,Jeneva Rose,2,2024-05-26
+12,11.0,Iron Flame,Rebecca Yarros,27,2024-05-26
+13,1.0,King Of Sloth,Ana Huang,2,2024-05-26
+14,12.0,A Court Of Wings And Ruin,Sarah J. Maas,5,2024-05-26
+15,10.0,Just For The Summer,Ab Jimenez,6,2024-05-26
+1,,Think Twice,Harlan Coben,1,2024-06-02
+2,2.0,The Women,Kristin Hannah,15,2024-06-02
+3,3.0,Funny Story,Emily Henry,4,2024-06-02
+4,,The Dixon Rule,Elle Kennedy,1,2024-06-02
+5,5.0,A Court Of Thorns And Roses,Sarah J. Maas,6,2024-06-02
+6,,The Paradise Problem,Christina Lauren,1,2024-06-02
+7,4.0,This Summer Will Be Different,Carley Fortune,2,2024-06-02
+8,15.0,Just For The Summer,Ab Jimenez,7,2024-06-02
+9,,It Ends With Us,Colleen Hoover,124,2024-06-02
+10,11.0,Home Is Where The Bodies Are,Jeneva Rose,3,2024-06-02
+11,1.0,The 24Th Hour,James Patterson and Maxine Paetro,2,2024-06-02
+12,10.0,Fourth Wing,Rebecca Yarros,55,2024-06-02
+13,,Murder Your Employer,Rupert Holmes,2,2024-06-02
+14,12.0,Iron Flame,Rebecca Yarros,28,2024-06-02
+15,,Happy Place,Emily Henry,22,2024-06-02
+1,,You Like It Darker,Stephen King,1,2024-06-09
+2,,Mind Games,Nora Roberts,1,2024-06-09
+3,2.0,The Women,Kristin Hannah,16,2024-06-09
+4,3.0,Funny Story,Emily Henry,5,2024-06-09
+5,9.0,It Ends With Us,Colleen Hoover,125,2024-06-09
+6,8.0,Just For The Summer,Ab Jimenez,8,2024-06-09
+7,5.0,A Court Of Thorns And Roses,Sarah J. Maas,7,2024-06-09
+8,,Romancing Mister Bridgerton,Julia Quinn,8,2024-06-09
+9,,One Perfect Couple,Ruth Ware,1,2024-06-09
+10,,Tom Clancy: Act Of Defiance,Brian Andrews and Jeffrey Wilson,1,2024-06-09
+11,7.0,This Summer Will Be Different,Carley Fortune,3,2024-06-09
+12,,Heavenbreaker,Sara Wolf,1,2024-06-09
+13,,A Court Of Mist And Fury,Sarah J. Maas,6,2024-06-09
+14,,The Housemaid,Freida McFadden,46,2024-06-09
+15,1.0,Think Twice,Harlan Coben,2,2024-06-09
+1,,Camino Ghosts,John Grisham,1,2024-06-16
+2,3.0,The Women,Kristin Hannah,17,2024-06-16
+3,1.0,You Like It Darker,Stephen King,2,2024-06-16
+4,4.0,Funny Story,Emily Henry,6,2024-06-16
+5,7.0,A Court Of Thorns And Roses,Sarah J. Maas,8,2024-06-16
+6,6.0,Just For The Summer,Ab Jimenez,9,2024-06-16
+7,,Southern Man,Greg Iles,1,2024-06-16
+8,11.0,This Summer Will Be Different,Carley Fortune,4,2024-06-16
+9,13.0,A Court Of Mist And Fury,Sarah J. Maas,7,2024-06-16
+10,,First Frost,Craig Johnson,1,2024-06-16
+11,14.0,The Housemaid,Freida McFadden,47,2024-06-16
+12,5.0,It Ends With Us,Colleen Hoover,126,2024-06-16
+13,,Iron Flame,Rebecca Yarros,29,2024-06-16
+14,,Fourth Wing,Rebecca Yarros,56,2024-06-16
+15,,A Court Of Wings And Ruin,Sarah J. Maas,6,2024-06-16
+1,,Eruption,Michael Crichton and James Patterson,1,2024-06-23
+2,,Leather And Lark,Brynne Weaver,1,2024-06-23
+3,1.0,Camino Ghosts,John Grisham,2,2024-06-23
+4,2.0,The Women,Kristin Hannah,18,2024-06-23
+5,5.0,A Court Of Thorns And Roses,Sarah J. Maas,9,2024-06-23
+6,3.0,You Like It Darker,Stephen King,3,2024-06-23
+7,4.0,Funny Story,Emily Henry,7,2024-06-23
+8,,The Comfort Of Ghosts,Jacqueline Winspear,1,2024-06-23
+9,,The Ashes & The Star-Cursed King,Carissa Broadbent,1,2024-06-23
+10,,The Wren In The Holly Library,K.A. Linde,1,2024-06-23
+11,8.0,This Summer Will Be Different,Carley Fortune,5,2024-06-23
+12,11.0,The Housemaid,Freida McFadden,48,2024-06-23
+13,9.0,A Court Of Mist And Fury,Sarah J. Maas,8,2024-06-23
+14,6.0,Just For The Summer,Ab Jimenez,10,2024-06-23
+15,14.0,Fourth Wing,Rebecca Yarros,57,2024-06-23
+1,,The Housemaid Is Watching,Freida McFadden,1,2024-06-30
+2,,Swan Song,Elin Hilderbrand,1,2024-06-30
+3,,Not In Love,Ali Hazelwood,1,2024-06-30
+4,1.0,Eruption,Michael Crichton and James Patterson,2,2024-06-30
+5,4.0,The Women,Kristin Hannah,19,2024-06-30
+6,3.0,Camino Ghosts,John Grisham,3,2024-06-30
+7,5.0,A Court Of Thorns And Roses,Sarah J. Maas,10,2024-06-30
+8,12.0,The Housemaid,Freida McFadden,49,2024-06-30
+9,6.0,You Like It Darker,Stephen King,4,2024-06-30
+10,7.0,Funny Story,Emily Henry,8,2024-06-30
+11,13.0,A Court Of Mist And Fury,Sarah J. Maas,9,2024-06-30
+12,11.0,This Summer Will Be Different,Carley Fortune,6,2024-06-30
+13,14.0,Just For The Summer,Ab Jimenez,11,2024-06-30
+14,,It Ends With Us,Colleen Hoover,127,2024-06-30
+15,2.0,Leather And Lark,Brynne Weaver,2,2024-06-30
+1,,Red Sky Mourning,Jack Carr,1,2024-07-07
+2,1.0,The Housemaid Is Watching,Freida McFadden,2,2024-07-07
+3,2.0,Swan Song,Elin Hilderbrand,2,2024-07-07
+4,,Winter Lost,Patricia Briggs,1,2024-07-07
+5,5.0,The Women,Kristin Hannah,20,2024-07-07
+6,4.0,Eruption,Michael Crichton and James Patterson,3,2024-07-07
+7,8.0,The Housemaid,Freida McFadden,50,2024-07-07
+8,,The Midnight Feast,Lucy Foley,1,2024-07-07
+9,,Middle Of The Night,Riley Sager,1,2024-07-07
+10,7.0,A Court Of Thorns And Roses,Sarah J. Maas,11,2024-07-07
+11,3.0,Not In Love,Ali Hazelwood,2,2024-07-07
+12,6.0,Camino Ghosts,John Grisham,4,2024-07-07
+13,,Love Unwritten,Lauren Asher,1,2024-07-07
+14,13.0,Just For The Summer,Ab Jimenez,12,2024-07-07
+15,10.0,Funny Story,Emily Henry,9,2024-07-07
+1,5.0,The Women,Kristin Hannah,21,2024-07-14
+2,,All The Colors Of The Dark,Chris Whitaker,1,2024-07-14
+3,2.0,The Housemaid Is Watching,Freida McFadden,3,2024-07-14
+4,3.0,Swan Song,Elin Hilderbrand,3,2024-07-14
+5,7.0,The Housemaid,Freida McFadden,51,2024-07-14
+6,10.0,A Court Of Thorns And Roses,Sarah J. Maas,12,2024-07-14
+7,,Resurrection,Danielle Steel,1,2024-07-14
+8,6.0,Eruption,Michael Crichton and James Patterson,4,2024-07-14
+9,,A Court Of Mist And Fury,Sarah J. Maas,10,2024-07-14
+10,12.0,Camino Ghosts,John Grisham,5,2024-07-14
+11,14.0,Just For The Summer,Ab Jimenez,13,2024-07-14
+12,15.0,Funny Story,Emily Henry,10,2024-07-14
+13,,A Novel Love Story,Ashley Poston,1,2024-07-14
+14,,The Housemaid'S Secret,Freida McFadden,1,2024-07-14
+15,11.0,Not In Love,Ali Hazelwood,3,2024-07-14
+1,1.0,The Women,Kristin Hannah,22,2024-07-21
+2,3.0,The Housemaid Is Watching,Freida McFadden,4,2024-07-21
+3,5.0,The Housemaid,Freida McFadden,52,2024-07-21
+4,6.0,A Court Of Thorns And Roses,Sarah J. Maas,13,2024-07-21
+5,4.0,Swan Song,Elin Hilderbrand,4,2024-07-21
+6,,The God Of The Woods,Liz Moore,1,2024-07-21
+7,,Flashpoint,Catherine Coulter,1,2024-07-21
+8,8.0,Eruption,Michael Crichton and James Patterson,5,2024-07-21
+9,9.0,A Court Of Mist And Fury,Sarah J. Maas,11,2024-07-21
+10,14.0,The Housemaid'S Secret,Freida McFadden,2,2024-07-21
+11,11.0,Just For The Summer,Ab Jimenez,14,2024-07-21
+12,,It Ends With Us,Colleen Hoover,128,2024-07-21
+13,2.0,All The Colors Of The Dark,Chris Whitaker,2,2024-07-21
+14,12.0,Funny Story,Emily Henry,11,2024-07-21
+15,10.0,Camino Ghosts,John Grisham,6,2024-07-21
+1,,A Death In Cornwall,Daniel Silva,1,2024-07-28
+2,1.0,The Women,Kristin Hannah,23,2024-07-28
+3,3.0,The Housemaid,Freida McFadden,53,2024-07-28
+4,2.0,The Housemaid Is Watching,Freida McFadden,5,2024-07-28
+5,4.0,A Court Of Thorns And Roses,Sarah J. Maas,14,2024-07-28
+6,,The Summer Pact,Emily Giffin,1,2024-07-28
+7,12.0,It Ends With Us,Colleen Hoover,129,2024-07-28
+8,10.0,The Housemaid'S Secret,Freida McFadden,3,2024-07-28
+9,11.0,Just For The Summer,Ab Jimenez,15,2024-07-28
+10,5.0,Swan Song,Elin Hilderbrand,5,2024-07-28
+11,9.0,A Court Of Mist And Fury,Sarah J. Maas,12,2024-07-28
+12,,A Court Of Wings And Ruin,Sarah J. Maas,7,2024-07-28
+13,,Fourth Wing,Rebecca Yarros,58,2024-07-28
+14,,Iron Flame,Rebecca Yarros,30,2024-07-28
+15,14.0,Funny Story,Emily Henry,12,2024-07-28
+1,,The Black Bird Oracle,Deborah Harkness,1,2024-08-04
+2,2.0,The Women,Kristin Hannah,24,2024-08-04
+3,7.0,It Ends With Us,Colleen Hoover,130,2024-08-04
+4,3.0,The Housemaid,Freida McFadden,54,2024-08-04
+5,5.0,A Court Of Thorns And Roses,Sarah J. Maas,15,2024-08-04
+6,4.0,The Housemaid Is Watching,Freida McFadden,6,2024-08-04
+7,,The Au Pair Affair,Tessa Bailey,1,2024-08-04
+8,,Remarkably Bright Creatures,Shel Van Pelt,3,2024-08-04
+9,11.0,A Court Of Mist And Fury,Sarah J. Maas,13,2024-08-04
+10,8.0,The Housemaid'S Secret,Freida McFadden,4,2024-08-04
+11,1.0,A Death In Cornwall,Daniel Silva,2,2024-08-04
+12,10.0,Swan Song,Elin Hilderbrand,6,2024-08-04
+13,,Never Lie,Freida McFadden,1,2024-08-04
+14,13.0,Fourth Wing,Rebecca Yarros,59,2024-08-04
+15,,The Inmate,Freida McFadden,4,2024-08-04
+1,3.0,It Ends With Us,Colleen Hoover,131,2024-08-11
+2,2.0,The Women,Kristin Hannah,25,2024-08-11
+3,4.0,The Housemaid,Freida McFadden,55,2024-08-11
+4,5.0,A Court Of Thorns And Roses,Sarah J. Maas,16,2024-08-11
+5,10.0,The Housemaid'S Secret,Freida McFadden,5,2024-08-11
+6,6.0,The Housemaid Is Watching,Freida McFadden,7,2024-08-11
+7,,It Starts With Us,Colleen Hoover,47,2024-08-11
+8,9.0,A Court Of Mist And Fury,Sarah J. Maas,14,2024-08-11
+9,,The God Of The Woods,Liz Moore,2,2024-08-11
+10,,All The Colors Of The Dark,Chris Whitaker,3,2024-08-11
+11,14.0,Fourth Wing,Rebecca Yarros,60,2024-08-11
+12,12.0,Swan Song,Elin Hilderbrand,7,2024-08-11
+13,,The Book Of Elsewhere,Keanu Reeves and China Miéville,1,2024-08-11
+14,,A Court Of Wings And Ruin,Sarah J. Maas,8,2024-08-11
+15,,Iron Flame,Rebecca Yarros,31,2024-08-11
+1,1.0,It Ends With Us,Colleen Hoover,132,2024-08-18
+2,2.0,The Women,Kristin Hannah,26,2024-08-18
+3,,Hard To Kill,James Patterson and Mike Lupica,1,2024-08-18
+4,3.0,The Housemaid,Freida McFadden,56,2024-08-18
+5,4.0,A Court Of Thorns And Roses,Sarah J. Maas,17,2024-08-18
+6,,The Wedding People,Alison Espach,1,2024-08-18
+7,7.0,It Starts With Us,Colleen Hoover,48,2024-08-18
+8,6.0,The Housemaid Is Watching,Freida McFadden,8,2024-08-18
+9,5.0,The Housemaid'S Secret,Freida McFadden,6,2024-08-18
+10,8.0,A Court Of Mist And Fury,Sarah J. Maas,15,2024-08-18
+11,9.0,The God Of The Woods,Liz Moore,3,2024-08-18
+12,12.0,Swan Song,Elin Hilderbrand,8,2024-08-18
+13,14.0,A Court Of Wings And Ruin,Sarah J. Maas,9,2024-08-18
+14,15.0,Iron Flame,Rebecca Yarros,32,2024-08-18
+15,,Just For The Summer,Ab Jimenez,16,2024-08-18
+1,1.0,It Ends With Us,Colleen Hoover,133,2024-08-25
+2,,Apprentice To The Villain,Hannah Nicole Maehrer,1,2024-08-25
+3,,Shadow Of Doubt,Brad Thor,1,2024-08-25
+4,7.0,It Starts With Us,Colleen Hoover,49,2024-08-25
+5,2.0,The Women,Kristin Hannah,27,2024-08-25
+6,5.0,A Court Of Thorns And Roses,Sarah J. Maas,18,2024-08-25
+7,4.0,The Housemaid,Freida McFadden,57,2024-08-25
+8,,The Pairing,Casey McQuiston,1,2024-08-25
+9,15.0,Just For The Summer,Ab Jimenez,17,2024-08-25
+10,8.0,The Housemaid Is Watching,Freida McFadden,9,2024-08-25
+11,,The Mercy Of Gods,James S.A. Corey,1,2024-08-25
+12,10.0,A Court Of Mist And Fury,Sarah J. Maas,16,2024-08-25
+13,,The Coven,Harper L. Woods,1,2024-08-25
+14,9.0,The Housemaid'S Secret,Freida McFadden,7,2024-08-25
+15,,Arkangel,James Rollins,1,2024-08-25
+1,1.0,It Ends With Us,Colleen Hoover,134,2024-09-01
+2,4.0,It Starts With Us,Colleen Hoover,50,2024-09-01
+3,,Born Of Blood And Ash,Jennifer L. Armentrout,1,2024-09-01
+4,,Angel Of Vengeance,Douglas Preston and Lincoln Child,1,2024-09-01
+5,5.0,The Women,Kristin Hannah,28,2024-09-01
+6,7.0,The Housemaid,Freida McFadden,58,2024-09-01
+7,,Joy,Danielle Steel,1,2024-09-01
+8,6.0,A Court Of Thorns And Roses,Sarah J. Maas,19,2024-09-01
+9,,Verity,Colleen Hoover,92,2024-09-01
+10,,The Wedding People,Alison Espach,2,2024-09-01
+11,,Iron Flame,Rebecca Yarros,33,2024-09-01
+12,12.0,A Court Of Mist And Fury,Sarah J. Maas,17,2024-09-01
+13,10.0,The Housemaid Is Watching,Freida McFadden,10,2024-09-01
+14,2.0,Apprentice To The Villain,Hannah Nicole Maehrer,2,2024-09-01
+15,,The God Of The Woods,Liz Moore,4,2024-09-01
+1,1.0,It Ends With Us,Colleen Hoover,135,2024-09-08
+2,2.0,It Starts With Us,Colleen Hoover,51,2024-09-08
+3,,By Any Other Name,Jodi Picoult,1,2024-09-08
+4,,This Is Why We Lied,Karin Slaughter,1,2024-09-08
+5,5.0,The Women,Kristin Hannah,29,2024-09-08
+6,6.0,The Housemaid,Freida McFadden,59,2024-09-08
+7,8.0,A Court Of Thorns And Roses,Sarah J. Maas,20,2024-09-08
+8,,Spirit Crossing,William Kent Krueger,1,2024-09-08
+9,,Betrayal Road,Christine Feehan,1,2024-09-08
+10,,Tom Clancy: Shadow State,M.P. Woodward,1,2024-09-08
+11,11.0,Iron Flame,Rebecca Yarros,34,2024-09-08
+12,10.0,The Wedding People,Alison Espach,3,2024-09-08
+13,12.0,A Court Of Mist And Fury,Sarah J. Maas,18,2024-09-08
+14,13.0,The Housemaid Is Watching,Freida McFadden,11,2024-09-08
+15,15.0,The God Of The Woods,Liz Moore,5,2024-09-08
+1,,Daydream,Hannah Grace,1,2024-09-15
+2,1.0,It Ends With Us,Colleen Hoover,136,2024-09-15
+3,2.0,It Starts With Us,Colleen Hoover,52,2024-09-15
+4,5.0,The Women,Kristin Hannah,30,2024-09-15
+5,7.0,A Court Of Thorns And Roses,Sarah J. Maas,21,2024-09-15
+6,6.0,The Housemaid,Freida McFadden,60,2024-09-15
+7,11.0,Iron Flame,Rebecca Yarros,35,2024-09-15
+8,,Demon Copperhead,Barbara Kingsolver,29,2024-09-15
+9,,The Dark Wives,Ann Cleeves,1,2024-09-15
+10,3.0,By Any Other Name,Jodi Picoult,2,2024-09-15
+11,15.0,The God Of The Woods,Liz Moore,6,2024-09-15
+12,13.0,A Court Of Mist And Fury,Sarah J. Maas,19,2024-09-15
+13,12.0,The Wedding People,Alison Espach,4,2024-09-15
+14,14.0,The Housemaid Is Watching,Freida McFadden,12,2024-09-15
+15,,The Housemaid'S Secret,Freida McFadden,8,2024-09-15
+1,,Passions In Death,J.D. Robb,1,2024-09-22
+2,,Vince Flynn: Capture Or Kill,Don Bentley,1,2024-09-22
+3,2.0,It Ends With Us,Colleen Hoover,137,2024-09-22
+4,3.0,It Starts With Us,Colleen Hoover,53,2024-09-22
+5,,Wild Eyes,Elsie Silver,1,2024-09-22
+6,4.0,The Women,Kristin Hannah,31,2024-09-22
+7,,The Games Gods Play,Abigail Owen,1,2024-09-22
+8,5.0,A Court Of Thorns And Roses,Sarah J. Maas,22,2024-09-22
+9,1.0,Daydream,Hannah Grace,2,2024-09-22
+10,,The Life Impossible,Matt Haig,1,2024-09-22
+11,6.0,The Housemaid,Freida McFadden,61,2024-09-22
+12,,The Perfect Couple,Elin Hilderbrand,8,2024-09-22
+13,8.0,Demon Copperhead,Barbara Kingsolver,30,2024-09-22
+14,,The Cursed,Harper L. Woods,1,2024-09-22
+15,7.0,Iron Flame,Rebecca Yarros,36,2024-09-22
+1,,Somewhere Beyond The Sea,TJ Klune,1,2024-09-29
+2,,Here One Moment,Liane Moriarty,1,2024-09-29
+3,,Tell Me Everything,Elizabeth Strout,1,2024-09-29
+4,3.0,It Ends With Us,Colleen Hoover,138,2024-09-29
+5,6.0,The Women,Kristin Hannah,32,2024-09-29
+6,4.0,It Starts With Us,Colleen Hoover,54,2024-09-29
+7,12.0,The Perfect Couple,Elin Hilderbrand,9,2024-09-29
+8,8.0,A Court Of Thorns And Roses,Sarah J. Maas,23,2024-09-29
+9,11.0,The Housemaid,Freida McFadden,62,2024-09-29
+10,13.0,Demon Copperhead,Barbara Kingsolver,31,2024-09-29
+11,15.0,Iron Flame,Rebecca Yarros,37,2024-09-29
+12,2.0,Vince Flynn: Capture Or Kill,Don Bentley,2,2024-09-29
+13,,A Court Of Mist And Fury,Sarah J. Maas,20,2024-09-29
+14,7.0,The Games Gods Play,Abigail Owen,2,2024-09-29
+15,10.0,The Life Impossible,Matt Haig,2,2024-09-29
+1,,Fourth Wing,Rebecca Yarros,61,2024-10-06
+2,,We Solve Murders,Richard Osman,1,2024-10-06
+3,,The Butcher Game,Alaina Urquhart,1,2024-10-06
+4,4.0,It Ends With Us,Colleen Hoover,139,2024-10-06
+5,5.0,The Women,Kristin Hannah,33,2024-10-06
+6,2.0,Here One Moment,Liane Moriarty,2,2024-10-06
+7,8.0,A Court Of Thorns And Roses,Sarah J. Maas,24,2024-10-06
+8,6.0,It Starts With Us,Colleen Hoover,55,2024-10-06
+9,9.0,The Housemaid,Freida McFadden,63,2024-10-06
+10,,The Night We Lost Him,Laura Dave,1,2024-10-06
+11,11.0,Iron Flame,Rebecca Yarros,38,2024-10-06
+12,10.0,Demon Copperhead,Barbara Kingsolver,32,2024-10-06
+13,3.0,Tell Me Everything,Elizabeth Strout,2,2024-10-06
+14,13.0,A Court Of Mist And Fury,Sarah J. Maas,21,2024-10-06
+15,7.0,The Perfect Couple,Elin Hilderbrand,10,2024-10-06
+1,,Counting Miracles,Nicholas Sparks,1,2024-10-13
+2,,Intermezzo,Sally Rooney,1,2024-10-13
+3,1.0,Fourth Wing,Rebecca Yarros,62,2024-10-13
+4,4.0,It Ends With Us,Colleen Hoover,140,2024-10-13
+5,5.0,The Women,Kristin Hannah,34,2024-10-13
+6,7.0,A Court Of Thorns And Roses,Sarah J. Maas,25,2024-10-13
+7,,Goldfinch,Raven Kennedy,1,2024-10-13
+8,6.0,Here One Moment,Liane Moriarty,3,2024-10-13
+9,9.0,The Housemaid,Freida McFadden,64,2024-10-13
+10,11.0,Iron Flame,Rebecca Yarros,39,2024-10-13
+11,8.0,It Starts With Us,Colleen Hoover,56,2024-10-13
+12,,Playground,Richard Powers,1,2024-10-13
+13,14.0,A Court Of Mist And Fury,Sarah J. Maas,22,2024-10-13
+14,12.0,Demon Copperhead,Barbara Kingsolver,33,2024-10-13
+15,13.0,Tell Me Everything,Elizabeth Strout,3,2024-10-13
+1,,The Boyfriend,Freida McFadden,1,2024-10-20
+2,1.0,Counting Miracles,Nicholas Sparks,2,2024-10-20
+3,3.0,Fourth Wing,Rebecca Yarros,63,2024-10-20
+4,14.0,Demon Copperhead,Barbara Kingsolver,34,2024-10-20
+5,,Lies He Told Me,James Patterson and David Ellis,1,2024-10-20
+6,,When The Moon Hatched,Sarah A. Parker,1,2024-10-20
+7,2.0,Intermezzo,Sally Rooney,2,2024-10-20
+8,,Triangle,Danielle Steel,1,2024-10-20
+9,5.0,The Women,Kristin Hannah,35,2024-10-20
+10,6.0,A Court Of Thorns And Roses,Sarah J. Maas,26,2024-10-20
+11,4.0,It Ends With Us,Colleen Hoover,141,2024-10-20
+12,,Beach Read,Emily Henry,10,2024-10-20
+13,9.0,The Housemaid,Freida McFadden,65,2024-10-20
+14,8.0,Here One Moment,Liane Moriarty,4,2024-10-20
+15,10.0,Iron Flame,Rebecca Yarros,40,2024-10-20
+1,1.0,The Boyfriend,Freida McFadden,2,2024-10-27
+2,2.0,Counting Miracles,Nicholas Sparks,3,2024-10-27
+3,13.0,The Housemaid,Freida McFadden,66,2024-10-27
+4,,Identity Unknown,Patricia Cornwell,1,2024-10-27
+5,3.0,Fourth Wing,Rebecca Yarros,64,2024-10-27
+6,9.0,The Women,Kristin Hannah,36,2024-10-27
+7,15.0,Iron Flame,Rebecca Yarros,41,2024-10-27
+8,10.0,A Court Of Thorns And Roses,Sarah J. Maas,27,2024-10-27
+9,,The Stars Are Dying,Chloe C. Peñaranda,1,2024-10-27
+10,7.0,Intermezzo,Sally Rooney,3,2024-10-27
+11,11.0,It Ends With Us,Colleen Hoover,142,2024-10-27
+12,4.0,Demon Copperhead,Barbara Kingsolver,35,2024-10-27
+13,,The Last One At The Wedding,Jason Rekulak,1,2024-10-27
+14,5.0,Lies He Told Me,James Patterson and David Ellis,2,2024-10-27
+15,,The Housemaid'S Secret,Freida McFadden,9,2024-10-27
